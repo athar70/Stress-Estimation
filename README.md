@@ -73,8 +73,8 @@ To run the notebook:
 
 You can view examples of the VR environments used in this study:
 
-- **Relaxing Environment**: [Relaxing VR Environment Video](https://youtu.be/iceV8TMDgZE)
-- **Stressful Environment**: [Stressful VR Environment Video](https://youtu.be/2piO3lCVX50)
+- **Relaxing Environment**: [![Relaxing Environment](https://img.youtube.com/vi/iceV8TMDgZE/0.jpg)](https://youtu.be/iceV8TMDgZE)
+- **Stressful Environment**: [![Stressful Environment](https://img.youtube.com/vi/2piO3lCVX50/0.jpg)](https://youtu.be/2piO3lCVX50)
 
 ## Contributing
 
